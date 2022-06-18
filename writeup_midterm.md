@@ -30,3 +30,19 @@ Vehicle features:
 | Wheels | Appear from front and back as oval shapes where the top is occluded by the bumper, as a circle when seen from the side | Visible even in further away cars, appears different based on relative position |
 | Car side profile | Cars have a distinct profile when seen from the side with a steeper back and a flatter front | Only seen when in 90 degree angle to other car |
 
+## Visualize Bird's Eye View from Lidar PCL
+
+<img src="img/BEV_from_Lidar.PNG"/>
+
+## Visualize Height Layer of the BEV map
+
+<img src="img/HeightMap.PNG"/>
+
+## Visualize Object Detection in BEV map with ResNet algorithm
+
+<img src="img/ObjectDetectionResnet.PNG"/>
+
+## Visualize Performance Evaluation for Object Detection
+
+<img src="img/PrecisionRecall.PNG"/>
+
