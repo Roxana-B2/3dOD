@@ -32,17 +32,17 @@ Vehicle features:
 
 ## Visualize Bird's Eye View from Lidar PCL
 
-<img src="img/BEV_from_Lidar.PNG"/>
+<img src="img/BEV_from_Lidar.png"/>
 
 ## Visualize Height Layer of the BEV map
 
-<img src="img/HeightMap.PNG"/>
+<img src="img/HeightMap.png"/>
 
 ## Visualize Object Detection in BEV map with ResNet algorithm
 
-<img src="img/ObjectDetectionResnet.PNG"/>
+<img src="img/ObjectDetectionResnet.png"/>
 
 ## Visualize Performance Evaluation for Object Detection
 
-<img src="img/PrecisionRecall.PNG"/>
+<img src="img/PrecisionRecall.png"/>
 
